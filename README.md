@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Polar
 
-Sou apaixonado por programação, especialmente em JavaScript, e adoro explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em HTML, CSS e outras linguagens para criar projetos incríveis.
+Sou apenas alguém, vagando por aí...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
